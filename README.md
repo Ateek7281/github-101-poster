@@ -6,8 +6,8 @@ This is a beginner-friendly poster designed to help students understand why GitH
 
 ## 📥 Downloads
 
-- 📄 [Download PDF](github-101-poster.pdf)  
-- 🖼️ [Download PNG](github-101-poster.png)
+- 📄 [Download PDF]((https://raw.githubusercontent.com/Ateek7281/github-101-poster/main/github-101-poster.pdf)  
+- 🖼️ [Download PNG](https://raw.githubusercontent.com/Ateek7281/github-101-poster/main/github-101-poster.png)
 
 ---
 
